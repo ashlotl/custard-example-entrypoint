@@ -1,5 +1,5 @@
 [package]
-name = "example-entrypoint"
+name = "custard-example-entrypoint"
 version = "0.1.0"
 authors = ["Ashlotl <thesupremeliverwurst@gmail.com>"]
 edition = "2018"
