@@ -1,0 +1,9 @@
+//This is the entrypoint composition.ron. It defines a composition that, save for references to other compositions, is completely empty. This choice is by convention, but highly reccomended.
+UnloadedComposition(
+	crates: {},
+	children: [
+		CrateName(
+			name: "custard-core"
+		)
+	],
+)
