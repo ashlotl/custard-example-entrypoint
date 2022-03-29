@@ -2,8 +2,8 @@
 UnloadedComposition(
 	crates: {},
 	children: [
-		CrateName(
-			name: "custard-core"
+		CrateName(//Helpful things you get by default, including a logger, soon
+			name: "custard-core"//Notice the "core" extension.
 		)
 	],
 )

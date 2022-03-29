@@ -9,3 +9,6 @@ edition = "2021"
 [dependencies]
 custard-core = {path = "../custard-core"}
 custard-use = {path = "../custard-use"}
+
+env_logger = "0.9.0"
+log = "0.4.16"
